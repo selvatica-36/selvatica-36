@@ -12,9 +12,9 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-**I'm a data analyst based in the UK.**
+**I'm a data analyst based in the UK.** 
 
-After training as a chemist and bioengineer, I decided to pursue a PhD - 2 years in, I decided that life was too short: **I wanted to have a real impact!** So I left and qualified as a secondary science teacher. I learned an inmense amount on communication and pedagogical theory and practice - that I now apply in my **data storytelling and reporting**. Afterwards, I worked for in the biotech industry and academia for two years. Recently, I completed a fully-funded immersive training program in software engineering and data analytics by [AiCore](https://www.theaicore.com). 
+<!--After training as a chemist and bioengineer, I decided to pursue a PhD - 2 years in, I decided that life was too short: **I wanted to have a real impact!** So I left and qualified as a secondary science teacher. I learned an inmense amount on communication and pedagogical theory and practice - that I now apply in my **data storytelling and reporting**. Afterwards, I worked in the biotech industry and academia for two years. Recently, I completed a fully-funded immersive training program in software engineering and data analytics by [AiCore](https://www.theaicore.com). -->
 
 - 🔭 I’m currently working on creating my portfolio website.
 - 🌱 I’m currently learning data warehousing and batch processing on the [data engineering zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main).
@@ -47,7 +47,7 @@ After training as a chemist and bioengineer, I decided to pursue a PhD - 2 years
 ### :bar_chart: Data Analytics Projects :
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selvatica-36&theme=material-palenight&repo=Exploratory-data-analysis---Online-shopping-in-retail)](https://github.com/selvatica-36/Exploratory-data-analysis---Online-shopping-in-retail)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selvatica-36&theme=material-palenight&repo=Exploratory-data-analysis---Online-shopping-in-retail)](https://github.com/selvatica-36/Exploratory-data-analysis---Online-shopping-in-retail)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selvatica-36&theme=material-palenight&repo=PowerBI-ecommerce-report)](https://github.com/selvatica-36/PowerBI-ecommerce-report)
 
 ---
 ### :fire: My Stats :
