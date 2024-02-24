@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 </div>
 <div id="social-badges" align="center">
-  <a href="www.linkedin.com/in/silvia-h-aragon">
+  <a href="https://www.linkedin.com/in/silvia-h-aragon">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning data warehousing and batch processing on the [data engineering zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main).
 - 👯 I’m looking to collaborate on healthcare data science projects. Or anything fun, just reach out!
 - 💬 Ask me about my projects or my career journey!
-- 📫 You can reach me here: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin&logoColor=white)](www.linkedin.com/in/silvia-h-aragon)
+- 📫 You can reach me here: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvia-h-aragon)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Back in high school, my robotics team won a competition where our code was sent to a racing robot in the international space station 🚀
 - 👾 I enjoy videogames, salsa dancing and building LEGOs.
