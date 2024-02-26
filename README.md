@@ -22,8 +22,8 @@
 - 💬 Ask me about my projects or my career journey!
 - 📫 You can reach me here: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvia-h-aragon)
 - 😄 Pronouns: she/her
-<!--- ⚡ Fun fact: Back in high school, my robotics team won a competition where our code was sent to a racing robot in the international space station 🚀-->
 - 👾 In my free time, I enjoy videogames, dancing and building LEGOs.
+<!--- ⚡ Fun fact: Back in high school, my robotics team won a competition where our code was sent to a racing robot in the international space station 🚀-->
 
 
 --- 
