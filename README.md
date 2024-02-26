@@ -22,8 +22,8 @@
 - 💬 Ask me about my projects or my career journey!
 - 📫 You can reach me here: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvia-h-aragon)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Back in high school, my robotics team won a competition where our code was sent to a racing robot in the international space station 🚀
-- 👾 I enjoy videogames, salsa dancing and building LEGOs.
+<!--- ⚡ Fun fact: Back in high school, my robotics team won a competition where our code was sent to a racing robot in the international space station 🚀-->
+- 👾 In my free time, I enjoy videogames, dancing and building LEGOs.
 
 
 --- 
@@ -46,12 +46,12 @@
 
 ### :bar_chart: Data Analytics Projects :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selvatica-36&theme=material-palenight&repo=Exploratory-data-analysis---Online-shopping-in-retail)](https://github.com/selvatica-36/Exploratory-data-analysis---Online-shopping-in-retail)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selvatica-36&theme=material-palenight&repo=PowerBI-ecommerce-report)](https://github.com/selvatica-36/PowerBI-ecommerce-report)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selvatica-36&theme=blueberry&repo=Exploratory-data-analysis---Online-shopping-in-retail)](https://github.com/selvatica-36/Exploratory-data-analysis---Online-shopping-in-retail)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selvatica-36&theme=blueberry&repo=PowerBI-ecommerce-report)](https://github.com/selvatica-36/PowerBI-ecommerce-report)
 
 ---
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=selvatica-36&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=selvatica-36&theme=blueberry)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selvatica-36&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selvatica-36&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
