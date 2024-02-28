@@ -18,7 +18,7 @@
 <!--After training as a chemist and bioengineer, I decided to pursue a PhD - 2 years in, I decided that life was too short: **I wanted to have a real impact!** So I left and qualified as a secondary science teacher. I learned an inmense amount on communication and pedagogical theory and practice - that I now apply in my **data storytelling and reporting**. Afterwards, I worked in the biotech industry and academia for two years. Recently, I completed a fully-funded immersive training program in software engineering and data analytics by [AiCore](https://www.theaicore.com). -->
 
 - 🔭 I’m currently working on creating my portfolio website.
-- 🌱 I’m currently learning data warehousing and batch processing on the [data engineering zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main).
+- 🌱 I’m currently learning about decision trees and XGBoost on the [machine learning zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master).
 - 👯 I’m looking to collaborate on healthcare data science projects. Or anything fun, just reach out!
 - 💬 Ask me about my projects or my career journey!
 - 📫 You can reach me here: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvia-h-aragon)
