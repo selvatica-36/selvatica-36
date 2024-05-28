@@ -45,10 +45,11 @@
 
 ---
 
-### :bar_chart: Data Analytics Projects :
+### :bar_chart: Data Science & Analytics Projects :
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selvatica-36&theme=blueberry&repo=Exploratory-data-analysis---Online-shopping-in-retail)](https://github.com/selvatica-36/Exploratory-data-analysis---Online-shopping-in-retail)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selvatica-36&theme=blueberry&repo=PowerBI-ecommerce-report)](https://github.com/selvatica-36/PowerBI-ecommerce-report)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selvatica-36&theme=blueberry&repo=predicting-fuel-economy)](https://github.com/selvatica-36/predicting-fuel-economy)
 
 ---
 ### :fire: My Stats :
